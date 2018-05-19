@@ -2,7 +2,9 @@
 
 ## Overview
 
-Converting [https://bl.ocks.org/mbostock/4062045] to ClojureScript
+Converting [Force-Directed Graph](https://bl.ocks.org/mbostock/4062045) to ClojureScript. 
+
+### [Deployed Example](https://scotthaleen.github.io/cljs-d3-force-direct-graph/)
 
 
 <p align="center">
