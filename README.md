@@ -7,7 +7,7 @@ Converting [https://bl.ocks.org/mbostock/4062045] to ClojureScript
 
 <p align="center">
 
-![graph](docs/images/sample.png)
+![graph](docs/imgs/sample.png)
 </p>
 
 ## Setup
