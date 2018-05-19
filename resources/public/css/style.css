@@ -1,0 +1,32 @@
+
+body {
+    display: block;
+    margin: 8px;
+    margin:0
+}
+
+#app {
+    height: 100%;
+    widht: 100%;
+}
+
+svg.graph {
+    display:block;
+    border:1px solid #ccc;
+    position:absolute;
+    top:1%;
+    left:1%;
+    width:98%;
+    height:98%;
+    background:#fff;
+}
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
