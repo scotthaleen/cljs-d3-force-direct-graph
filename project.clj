@@ -1,6 +1,6 @@
 (defproject haleen.fd.graph "0.1.0-SNAPSHOT"
   :description "d3 fd graph in clojurescript"
-  :url ""
+  :url "https://github.com/scotthaleen/cljs-d3-force-direct-graph"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :min-lein-version "2.7.1"
